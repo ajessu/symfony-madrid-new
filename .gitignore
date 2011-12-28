@@ -1,0 +1,14 @@
+/web/bundles/*
+/app/bootstrap*
+/app/cache/*
+/app/logs/*
+/vendor/
+/app/config/parameters.yml
+/app/phpunit.xml
+/phpunit-report/
+#Si trabajamos con netbeans quitamos el directorio de proyecto
+nbproject/
+#Si trabajamos con emacs
+*~
+#Si trabajamos con vim
+*.swp
